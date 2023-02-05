@@ -9,7 +9,8 @@ const path = require("path");
 app.use(cors());
 app.use(bodyParser.json());
 
-const db = "mongodb+srv://sam01:9760888906@cluster0.e2ut4be.mongodb.net/formdata?retryWrites=true&w=majority";
+// const db = "mongodb+srv://sam01:9760888906@cluster0.e2ut4be.mongodb.net/formdata?retryWrites=true&w=majority";
+const db = "mongodb+srv://sam401:9760888906@cluster0.fe8jegt.mongodb.net/form?retryWrites=true&w=majority";
 
 //static file
  
